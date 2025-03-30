@@ -1,4 +1,4 @@
-public class Patterns {
+public class aplharamp {
     public static void alphaRamp(int n) {
         for(int i=1;i<=n;i++){
             for(int j=0;j<i;j++){
